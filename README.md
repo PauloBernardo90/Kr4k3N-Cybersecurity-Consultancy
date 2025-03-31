@@ -4,9 +4,9 @@
 
 # KR4K3N Cybersecurity Consultancy 🐙
 
-> Red Team | Threat Intelligence | Cyberwarfare
+> **Red Team | Threat Intelligence | Cyberwarfare**
 
-We are Kr4k3N. A cybersecurity consultancy born from the trenches of real-world cyberwarfare. Our specialty is operating in the invisible depths of the internet — where few have the courage or technical prowess to dive.
+**We are Kr4k3N.** A cybersecurity consultancy born from the trenches of real-world cyberwarfare. Our specialty is operating in the invisible depths of the internet — where few have the courage or technical prowess to dive.
 
 From the digital battlefield of the Armed Forces to the private sector, we deliver offensive and defensive solutions with surgical precision and a hacker mindset.
 
@@ -14,22 +14,22 @@ From the digital battlefield of the Armed Forces to the private sector, we deliv
 
 ## 🔥 Services
 
-- 🛠 Advanced Penetration Testing (Red Team)
+- 🛠 **Advanced Penetration Testing (Red Team)**
   - Full chain: Reconnaissance, Exploitation, Pivoting, Post-Exploitation
   - Evasion techniques (OPSEC / OSEP-style)
 
-- 🧠 Threat Intelligence (CTI)
+- 🧠 **Threat Intelligence (CTI)**
   - Collection across Surface, Deep, and Dark Web
   - Analysis of IOCs, TTPs, APTs using MITRE ATT&CK and Diamond Model
 
-- 🏭 Critical Infrastructure Security (ICS/SCADA)
+- 🏭 **Critical Infrastructure Security (ICS/SCADA)**
   - Protection and threat simulation in industrial environments
 
-- 🛡 Incident Response & Hardening
+- 🛡 **Incident Response & Hardening**
   - Containment, mitigation, and post-mortem analysis
   - Secure configuration of critical assets
 
-- 🧩 Training & Simulations
+- 🧩 **Training & Simulations**
   - Technical training for Blue and Red Teams
   - Strategic workshops for CISOs and executives
 
@@ -59,7 +59,7 @@ This repository contains public samples of our technical work. Available content
 
 Former officer of the Brazilian Navy, specialized in Cyberwarfare and Information Security, with real-world experience in:
 
-- Exercises such as UNITAS, Guardião Cibernético, and MCDC
+- Exercises such as **UNITAS**, **Guardião Cibernético**, and **MCDC**
 - Advanced operations covering the full Cyber Kill Chain
 - Training at elite military and civilian institutions, including OSCP and OSEP
 
@@ -69,9 +69,9 @@ Our current mission is to protect the private sector with the same level of rigo
 
 ## 🌐 Contact
 
-📧 Kr4k3N-CyberSec@proton.me
+📧 **Kr4k3N-CyberSec@proton.me**  
 🔗 [linkedin.com/in/paulo-bernardo-4b13a7202](https://www.linkedin.com/in/paulo-bernardo-4b13a7202)  
-🐙 Powered by Kr4k3N Cybersecurity Consultancy
+🐙 **Powered by Kr4k3N Cybersecurity Consultancy**
 
 ---
 
